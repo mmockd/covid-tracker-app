@@ -25,7 +25,7 @@
     "babel-plugin-dotenv-import": "^2.1.0",
     "babel-plugin-transform-remove-console": "^6.9.4",
     "date-fns": "^2.16.1",
-    "expo-asset": "~8.1.7",
+    "expo-asset": "~8.12.1",
     "expo-constants": "~9.1.1",
     "expo-crypto": "^8.2.1",
     "expo-font": "^8.2.2",
