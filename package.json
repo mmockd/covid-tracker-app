@@ -52,7 +52,7 @@
     "react-native-permissions": "^2.2.0",
     "react-native-push-notification": "^5.1.0",
     "react-native-safe-area-context": "3.1.7",
-    "react-native-screens": "2.10.1",
+    "react-native-screens": "2.18.1",
     "react-native-ssl-pinning": "^1.4.9",
     "react-native-svg": "12.1.0",
     "react-native-svg-charts": "^5.4.0",
